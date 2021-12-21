@@ -1,0 +1,14 @@
+body{
+    background-color: lightblue;
+}
+
+.titulo{
+    
+    text-align: right;
+    text-transform: capitalize;
+}
+
+.subtitulo{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}

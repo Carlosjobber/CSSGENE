@@ -1,0 +1,32 @@
+body{
+    background-color:seagreen;
+}
+
+h1{
+    font-size: 40px;
+    color: black;
+    
+}
+
+
+.texto2{
+    color: white;
+    font-style: italic;
+
+}
+.texto3{
+    color: wheat;
+    font-size: 20px;
+
+}
+.texto4{
+    font-size: 26px;
+    color: darkgoldenrod;
+
+
+}
+.texto5{
+    color: red;
+    font-size: 20px;
+
+}
