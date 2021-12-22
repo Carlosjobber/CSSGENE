@@ -1,0 +1,83 @@
+body{
+    background-color: green;
+}
+.cajita{
+    width: 80;
+    height: 50;
+    background-color: white;
+    padding: 15px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+    
+    
+}
+
+.blanco{
+    
+  border: 6px solid black
+}
+
+
+.cajita1{
+    width: 80;
+    height: 50;
+    background-color: brown;
+    padding: 15px;
+    margin-right:  700px;
+    border-start-start-radius: 20px;
+    border-end-start-radius: 20px;
+    color: white;
+    background-color: chocolate;
+    margin-bottom: 20px;
+    
+    
+    
+}
+
+.rojo{
+    
+  border: 16px solid brown
+}
+
+.cajita2{
+    width: 100;
+    width: 80;
+    height: 50;
+    padding: 15px;
+    margin-left:  700px;
+    border-end-end-radius: 20px;
+    border-start-end-radius: 20px;
+    color: white;
+    background-color: orangered;
+    margin-bottom: 20px;
+    
+    
+}
+
+.cafe{
+    
+  border: 6px solid burlywood
+}
+
+.cajita3{
+    width: 100;
+    height: 50;
+    background-color: blue;
+    padding: 15px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 20px;  
+    color: white;
+    ;
+    
+    
+}
+
+.azul{
+    
+  border-style: dotted; border-color: cornflowerblue;
+  
+
+}
